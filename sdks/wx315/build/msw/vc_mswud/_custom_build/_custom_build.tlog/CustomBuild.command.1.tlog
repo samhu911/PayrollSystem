@@ -1,0 +1,4 @@
+^C:\SDKS\WX315\INCLUDE\WX\MSW\SETUP.H
+copy "C:\sdks\wx315\include\wx\msw\setup.h" ..\..\lib\vc_lib\mswud\wx\setup.h
+^C:\SDKS\WX315\INCLUDE\WX\MSW\GENRCDEFS.H
+cl /EP /nologo "C:\sdks\wx315\include\wx\msw\genrcdefs.h" > "..\..\lib\vc_lib\mswud\wx\msw\rcdefs.h"

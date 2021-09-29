@@ -1,0 +1,2 @@
+lib/vc_lib/wxmsw31u_core.lib filter=lfs diff=lfs merge=lfs -text
+*.lib filter=lfs diff=lfs merge=lfs -text
