@@ -1,6 +1,6 @@
 #include "cApp.h"
 
-wxIMPLEMENT_APP(cApp);
+wxIMPLEMENT_APP(cApp); // This is Haftamu 
 
 cApp::cApp()
 {
